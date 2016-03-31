@@ -1,0 +1,14 @@
+{
+  "name"         : "ionic-fullstack-app-seed",
+  "version"      : "0.0.0",
+  "description"  : "An ionic app seed with fullstack mean",
+  "main"         : "server.js",
+  "author"       : "Fernando del olmo",
+  "dependencies" : {
+    "express"         : "4.13.1",
+    "mongoose"        : "4.3.4",
+    "morgan"          : "1.6.1",
+    "body-parser"     : "1.14.2",
+    "method-override" : "2.3.5"
+  }
+}
