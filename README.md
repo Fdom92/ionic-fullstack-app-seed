@@ -17,8 +17,10 @@ The Ionic application its from https://github.com/tmaximini/ionic-gulp-seed
     1. Run npm install to install server dependencies.
     2. Run node server.js to keep your API running.
     3. Open a browser and got to localhost:8080 to see your API.
+    4. Use cURL to populate the database with users like {name:"avengers"} with a POST to localhost:8080/my-api/users
 
 	Application:
     1. Run npm install && bower install to install all dependencies.
     2. Run gulp to run the application in localhost.
     3. Run gulp -b to build the application in www directory.
+    4. You will see all the users you add before.
