@@ -21,3 +21,4 @@ The Ionic application its from https://github.com/tmaximini/ionic-gulp-seed
 	Application:
 	1. Run npm install && bower install to install all dependencies.
 		2. Run gulp to run the application in localhost.
+		3. Run gulp -b to build the application in www directory.
