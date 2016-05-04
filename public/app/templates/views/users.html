@@ -1,0 +1,13 @@
+<ion-view>
+    <ion-header-bar align-title="center" class="bar-positive">
+    <button class="button button-icon icon ion-navicon" menu-toggle="left"></button>
+        <h1 class="title">Users</h1>
+    </ion-header-bar>
+
+    <ion-content>
+      <ion-item ng-repeat="user in vm.users">
+        {{user.name}}
+      </ion-item>
+    </ion-content>
+
+</ion-view>
