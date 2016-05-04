@@ -6,9 +6,9 @@ This project is an ionic app seed with fullstack using Ionic and AngularJS for t
 
 ### Prerequisites
 
-	1. [Git](https://git-scm.com/)
-    2. [NodeJS and NPM](https://nodejs.org/en/)
-    3. [MongoDB](https://www.mongodb.org/)
+	1. Git
+    2. NodeJS and NPM
+    3. MongoDB
     
 ### Developing
 
