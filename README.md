@@ -2,7 +2,7 @@
 
 This project is an ionic app seed with fullstack using Ionic and AngularJS for the Frontend part, Express for the API REST and Node with MongoDB for the database.
 
-## ** Getting Started**
+## Getting Started
 
 ### Prerequisites
 
