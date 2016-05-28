@@ -1,6 +1,9 @@
 ## Ionic Fullstack Seed
 
-A seed to quickstart in fullstack mean applications with ionic
+A seed to quickstart in fullstack mean applications with ionic.
+
+The ionic app its based on [tmaximini repo](https://github.com/tmaximini/ionic-gulp-seed) and
+applied the [John Papa Style guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
 
 ## Technology Stack
 
@@ -16,7 +19,7 @@ A seed to quickstart in fullstack mean applications with ionic
 
 Node.js and MongoDB installed at least.
 
-#Server
+###Server
 
 ```
 $ npm install
@@ -24,7 +27,7 @@ $ node server.js
 ```
 And open your browser on `http://localhost:8080`
 
-#Client
+###Client
 
 ```
 $ npm install && bower install
@@ -39,7 +42,6 @@ Build the app
 ```
 $ gulp -b
 ```
-This ionic application its from [tmaximini repo](https://github.com/tmaximini/ionic-gulp-seed)
 
 ## Folder structure
 
